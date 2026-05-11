@@ -11,3 +11,5 @@ data/curated/
 *.sqlite
 *.db
 .DS_Store
+
+.streamlit/

@@ -2,6 +2,11 @@
 
 An end-to-end intelligence analytics and data engineering platform built with Python, PostgreSQL, Docker, and SQL-based analytics workflows.
 
+
+The platform simulates an intelligence fusion environment for tracking
+high-risk entities, correlating geospatial activity, and generating
+behavior-based analytical insights from streaming event data.
+
 ---
 
 # Architecture
@@ -310,6 +315,17 @@ ENT-1007        0.81            35
 ```
 
 ---
+# Dashboard Preview
+
+![GEOINT Fusion Platform Dashboard](docs/images/geoint-dashboard-preview.png)
+
+The Streamlit dashboard provides:
+
+- real-time warehouse analytics
+- tracked entity monitoring
+- intelligence event distributions
+- behavioral risk scoring insights
+- geospatial activity summaries
 
 # Engineering Concepts Demonstrated
 
